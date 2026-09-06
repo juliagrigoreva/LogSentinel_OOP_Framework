@@ -1,0 +1,8 @@
+{"timestamp": "2026-07-19T01:15:00", "level": "INFO", "msg": "User logged in"}
+{"timestamp": "2026-07-19T02:20:00", "level": "ERROR", "msg": "Database connection timeout"}
+{"timestamp": "2026-07-19T03:05:00", "level": "ERROR", "msg": "Payment gateway offline"}
+{"timestamp": "2026-07-19T03:45:00", "level": "INFO", "msg": "Page loaded"}
+{"timestamp": "2026-07-19T02:45:00", "level": "ERROR", "msg": "Payment gateway offline"}
+{"timestamp": "2026-07-19T04:12:00", "level": "ERROR", "msg": "Payment gateway offline"}
+{"timestamp": "2026-07-19T05:30:00", "level": "ERROR", "msg": "Database connection timeout"}
+{"timestamp": "2026-07-19T08:50:00", "level": "WARNING", "msg": "Disk space low"}

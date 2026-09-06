@@ -1,0 +1,11 @@
+{"timestamp": "2026-06-21T14:20:01", "level": "INFO", "msg": "User login success"}
+{"timestamp": "2026-06-21T14:25:30", "level": "INFO", "msg": "Catalog loaded"}
+{"timestamp": "2026-06-22T02:15:10", "level": "ERROR", "msg": "Database connection timeout"}
+{"timestamp": "2026-06-22T02:18:45", "level": "ERROR", "msg": "Database connection timeout"}
+{"timestamp": "2026-06-22T03:05:00", "level": "ERROR", "msg": "Payment gateway offline"}
+{"timestamp": "2026-06-22T03:12:15", "level": "ERROR", "msg": "Payment gateway offline"}
+{"timestamp": "2026-06-22T03:55:30", "level": "ERROR", "msg": "Database connection timeout"}
+{"timestamp": "2026-06-22T04:10:12", "level": "ERROR", "msg": "Payment gateway offline"}
+{"timestamp": "2026-06-22T10:30:00", "level": "INFO", "msg": "User login success"}
+{"timestamp": "2026-06-22T11:15:22", "level": "WARNING", "msg": "High CPU usage"}
+{"timestamp": "2026-06-22T12:15:22", "level": "ERROR", "msg": "User unauthorized access"}

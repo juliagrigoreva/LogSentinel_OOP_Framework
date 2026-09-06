@@ -1,0 +1,6 @@
+{"timestamp": "2026-06-20T23:00:01", "status": "INFO", "message": "User alex logged in from IP 192.168.1.15"}
+{"timestamp": "2026-06-20T23:01:12", "status": "ERROR", "message": "Unauthorized access attempt to admin panel from IP 95.213.255.1"}
+{"timestamp": "2026-06-20T23:02:45", "status": "INFO", "message": "User maria logged in from IP 10.0.0.4"}
+{"timestamp": "2026-06-20T23:03:10", "status": "ERROR", "message": "Unauthorized access attempt to admin panel from IP 185.112.89.45"}
+{"timestamp": "2026-06-20T23:04:00", "status": "ERROR", "message": "Database connection timeout from IP 192.168.1.1"}
+{"timestamp": "2026-06-20T23:05:18", "status": "ERROR", "message": "Unauthorized access attempt to admin panel from IP 95.213.255.1"}
